@@ -1,6 +1,6 @@
-# Istvan
+# istvanvasil.com
 
-> istvanvasil.com
+> It's me
 
 ## Build Setup
 

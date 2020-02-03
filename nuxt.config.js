@@ -1,4 +1,7 @@
 export default {
+  server: {
+    port: 3000
+  },
   mode: 'universal',
   /*
    ** Headers of the page
@@ -134,14 +137,8 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
-    '@nuxtjs/pwa',
-    'nuxt-basic-auth-module'
+    '@nuxtjs/pwa'
   ],
-  basic: {
-    name: 'client',
-    pass: 'seemywork',
-    message: 'This page is password protected. Please authenticate.'
-  },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options

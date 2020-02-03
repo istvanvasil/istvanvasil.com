@@ -59,7 +59,7 @@ export default {
   .about {
     padding: 0 1rem 0 1rem;
     margin-top: 4rem;
-    margin-bottom: 4rem;
+    margin-bottom: 6rem;
   }
 }
 

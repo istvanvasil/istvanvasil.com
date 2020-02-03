@@ -33,7 +33,8 @@
           <a href="https://www.instagram.com/stvnvsl" target="_blank"
             >Instagram</a
           >,
-          <a href="https://www.are.na/istvan-vasil" target="_blank">Arena</a>
+          <a href="https://www.are.na/istvan-vasil" target="_blank">Arena</a>,
+          <a href="https://github.com/istvanvasil" target="_blank">Github</a>
         </p>
       </div>
     </div>

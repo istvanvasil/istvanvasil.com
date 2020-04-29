@@ -3,12 +3,6 @@
     <div class="grid">
       <div class="profile">
         <p>
-          My practice revolves around design as a holistic system, unconditional
-          of the medium, including both digital and physical. I combine
-          aesthetic principles with high functionality to create new ways of
-          interaction and communication.
-        </p>
-        <p class="break-single">
           I currently work as a designer at
           <a href="https://sdl.se" target="_blank">Stockholm Design Lab.</a>
           Portfolio is availabe upon request.
